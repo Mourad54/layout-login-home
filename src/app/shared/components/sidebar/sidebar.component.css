@@ -1,0 +1,12 @@
+
+
+.sidebar{
+   
+   margin-right: 80%;
+   padding-bottom: 40%;
+   margin-bottom: -600px;
+   background:linear-gradient(10deg,pink,blue,black);
+   color: white;
+   font-size: larger;
+   font-weight: bolder;
+}
